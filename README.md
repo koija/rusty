@@ -1,0 +1,2 @@
+# rusty
+just another repo
